@@ -1,0 +1,13 @@
+{
+  "name": "newfox",
+  "version": "2.0.0",
+  "description": "foxdemado 2",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omar hani",
+  "license": "MIT"
+}

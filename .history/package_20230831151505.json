@@ -1,0 +1,11 @@
+{
+  "name": "newfox",
+  "version": "2.0.0",
+  "description": "foxdemado 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omar hani",
+  "license": "MIT"
+}
