@@ -34,8 +34,8 @@ const Header = () => {
             <Navbar.Brand expand="lg" collapseOnSelect>
               <div className="section">
                 <div className="content">
-                  <h2>FOXDEMANDO</h2>
-                  <h2>FOXDEMANDO</h2>
+                  <h2>EMANDO</h2>
+                  <h2>EMANDO</h2>
                 </div>
               </div>
             </Navbar.Brand>
