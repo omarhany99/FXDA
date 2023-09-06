@@ -1,0 +1,25 @@
+.Navbar {
+  background-image: linear-gradient(
+    to right,
+    rgb(0, 84, 209),
+    rgb(49, 123, 207),
+    rgb(0, 167, 209),
+    #3a8fd9,
+    /* #7d38f5, */ #686dc3,
+    /* #39cbfb, */ #cf29a0,
+    #fe2ec4
+  );
+  /* to right,
+      rgb(0, 204, 255),
+      #00c5d7,
+      #01abe4,
+      rgb(0, 136, 255),
+      #39cbfb
+    ); */
+  padding: 16px;
+}
+/*.brandimg {
+    width: 120px;
+  }*/
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
