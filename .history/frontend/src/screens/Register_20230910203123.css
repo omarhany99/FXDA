@@ -1,0 +1,124 @@
+.signup1 {
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: block;
+  font-weight: bold;
+  font-size: x-large;
+  margin-top: 1.5em;
+}
+
+.registerscreen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 350px;
+  /* width: 380px; */
+  flex-direction: column;
+  gap: 30px;
+  border-radius: 15px;
+  background: #e3e3e3;
+  box-shadow: 16px 16px 32px #c8c8c8, -16px -16px 32px #fefefe;
+  border-radius: 8px;
+  /* margin-left: 438px;
+  margin-top: 100px;  */
+  max-width: 380px;
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.inputBoxx,
+.inputBox2 {
+  position: relative;
+  width: 270px;
+}
+
+.inputBoxx input,
+.inputBox2 input {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  border: none;
+  color: #000;
+  font-size: 1em;
+  background: transparent;
+  border-left: 2px solid #000;
+  border-bottom: 2px solid #000;
+  transition: 0.1s;
+  border-bottom-left-radius: 8px;
+}
+
+.inputBoxx span,
+.inputBox2 span {
+  margin-bottom: 19px;
+  position: absolute;
+  left: 0;
+  transform: translateY(-4px);
+  margin-left: 10px;
+  padding: 10px;
+  pointer-events: none;
+  font-size: 12px;
+  color: #000;
+  text-transform: uppercase;
+  transition: 0.5s;
+  letter-spacing: 3px;
+  border-radius: 8px;
+}
+
+.inputBoxx input:valid ~ span,
+.inputBoxx input:focus ~ span {
+  transform: translateX(113px) translateY(-15px);
+  font-size: 0.8em;
+  padding: 5px 13px;
+  background: #000;
+  letter-spacing: 0.2em;
+  color: #fff;
+  border: 2px;
+}
+
+.inputBox2 input:valid ~ span,
+.inputBox2 input:focus ~ span {
+  transform: translateX(156px) translateY(-15px);
+  font-size: 0.8em;
+  padding: 5px 13px;
+  background: #000;
+  letter-spacing: 0.2em;
+  color: #fff;
+  border: 2px;
+}
+
+.inputBoxx input:valid,
+.inputBoxx input:focus,
+.inputBox2 input:valid,
+.inputBox2 input:focus {
+  border: 2px solid #000;
+  border-radius: 8px;
+}
+
+.enter2 {
+  height: 45px;
+  width: 70%;
+  border-radius: 5px;
+  border: 2px solid #000;
+  cursor: pointer;
+  background-color: transparent;
+  transition: 0.5s;
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-bottom: 3em;
+  transition: transform 0.3s ease;
+  background-color: #000;
+  color: #c8c8c8;
+}
+
+.enter2:active {
+  transform: scale(0.9);
+}
+
+.registerlink {
+  margin-bottom: 30px;
+}
