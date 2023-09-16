@@ -1,0 +1,21 @@
+.social {
+  margin: 0 auto;
+  margin-top: 400px;
+  color: rgb(255, 255, 255);
+  margin-left: 700px;
+}
+
+body {
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 80%, #2f80ed 20%);
+}
+.socialIcon {
+  font-size: 2rem;
+}
+
+.p1 {
+  max-width: 700px;
+  margin-right: 200px;
+  /* margin-top: 300px; */
+  margin-bottom: auto;
+  color: white;
+}

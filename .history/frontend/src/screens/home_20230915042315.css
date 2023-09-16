@@ -1,0 +1,12 @@
+.social {
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: rgb(255, 251, 251);
+}
+.socialIcon {
+  color: black;
+  font-size: 2rem;
+}

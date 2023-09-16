@@ -1,0 +1,12 @@
+.social {
+  max-width: 750px;
+  margin: 0 auto;
+  color: aliceblue;
+}
+
+/* body {
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 9%, #8d21e6 7%);
+} */
+.socialIcon {
+  font-size: 2rem;
+}

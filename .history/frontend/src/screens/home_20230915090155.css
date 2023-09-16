@@ -1,0 +1,23 @@
+.social {
+  /* margin: 0 auto; */
+  margin-top: 200px;
+  color: rgb(255, 255, 255);
+
+  margin-bottom: 20px;
+}
+
+.socialIcon {
+  font-size: 2rem;
+  grid: 15px;
+}
+
+.cardbox33 {
+  margin-top: 500px;
+  width: 100%;
+  grid: 15px;
+  background-color: blueviolet;
+}
+.p1 {
+  color: white;
+  max-width: 400px;
+}

@@ -1,0 +1,17 @@
+.social {
+  margin: 0 auto;
+  margin-top: 200px;
+  color: rgb(255, 255, 255);
+
+  margin-bottom: 20px;
+}
+
+.socialIcon {
+  font-size: 2rem;
+}
+
+.cardbox33 {
+  margin-top: 100px;
+  width: 100%;
+  background-color: blueviolet;
+}
