@@ -33,36 +33,29 @@
     #2b32b2,
     #1488cc
   );  */
+  /* 
+  background: #4e54c8;
+  background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);
+  background: linear-gradient(to left, #8f94fb, #4e54c8); */
 
-  /* background: #4e54c8; 
-  background: -webkit-linear-gradient(
-    to left,
-    #8f94fb,
-    #4e54c8
-  ); 
-  background: linear-gradient(
-    to left,
-    #8f94fb,
-    #4e54c8
-  );  */
-
+  /* background-color: black; */
   /* background: #36d1dc;
   background: -webkit-linear-gradient(
     to right,
     #5b86e5,
     #36d1dc
   ); 
-  background: linear-gradient(
+   background: linear-gradient(
     to right,
     #5b86e5,
     #36d1dc
-  );  */
+  );   */
 
   background: #56ccf2;
   background: -webkit-linear-gradient(to left, #2f80ed, #56ccf2);
   background: linear-gradient(to left, #2f80ed, #56ccf2);
-
-  /* to right,
+  /* 
+  to right,
       rgb(0, 204, 255),
       #00c5d7,
       #01abe4,
