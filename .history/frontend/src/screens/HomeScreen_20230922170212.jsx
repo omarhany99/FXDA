@@ -74,7 +74,7 @@ const HomeScreen = () => {
           <a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:a6584f3a-fb5f-32d6-aa45-b75df06996cb">
             <FaTiktok style={{ color: "white" }}></FaTiktok>
           </a>
-          <a href="https://acrobat.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3A60e45c19-52b5-370f-b381-8d9fa36df093">
+          <a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:60e45c19-52b5-370f-b381-8d9fa36df093">
             <FaTwitter style={{ color: "white" }}></FaTwitter>
           </a>
         </div>
